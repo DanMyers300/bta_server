@@ -1,0 +1,219 @@
+2023-08-29 00:55:59 INFO  Minecraft - Starting Better than Adventure! server for version 1.7.7.0_02
+2023-08-29 00:55:59 WARN  Minecraft - **** NOT ENOUGH RAM!
+2023-08-29 00:55:59 WARN  Minecraft - To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2023-08-29 00:55:59 INFO  Minecraft - Loading properties
+2023-08-29 00:55:59 WARN  Minecraft - server.properties does not exist
+2023-08-29 00:55:59 INFO  Minecraft - Generating new properties file
+2023-08-29 00:58:25 INFO  Minecraft - Starting Better than Adventure! server for version 1.7.7.0_02
+2023-08-29 00:58:25 INFO  Minecraft - Loading properties
+2023-08-29 00:58:29 INFO  Minecraft - Starting Minecraft server on *:25565
+2023-08-29 00:58:29 WARN  Minecraft - Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2023-08-29 00:58:29 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2023-08-29 00:58:29 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2023-08-29 00:58:29 WARN  Minecraft - Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2023-08-29 00:58:29 INFO  Minecraft - Preparing level "world"
+2023-08-29 00:58:30 INFO  Minecraft - Preparing start region for level 0
+2023-08-29 00:58:31 INFO  Minecraft - Preparing spawn area: 3%
+2023-08-29 00:58:32 INFO  Minecraft - Preparing spawn area: 4%
+2023-08-29 00:58:33 INFO  Minecraft - Preparing spawn area: 8%
+2023-08-29 00:58:34 INFO  Minecraft - Preparing spawn area: 8%
+2023-08-29 00:58:35 INFO  Minecraft - Preparing spawn area: 12%
+2023-08-29 00:58:36 INFO  Minecraft - Preparing spawn area: 12%
+2023-08-29 00:58:37 INFO  Minecraft - Preparing spawn area: 16%
+2023-08-29 00:58:38 INFO  Minecraft - Preparing spawn area: 20%
+2023-08-29 00:58:39 INFO  Minecraft - Preparing spawn area: 24%
+2023-08-29 00:58:41 INFO  Minecraft - Preparing spawn area: 28%
+2023-08-29 00:58:42 INFO  Minecraft - Preparing spawn area: 32%
+2023-08-29 00:58:43 INFO  Minecraft - Preparing spawn area: 36%
+2023-08-29 00:58:44 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 00:58:45 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 00:58:46 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 00:58:47 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 00:58:48 INFO  Minecraft - Preparing spawn area: 52%
+2023-08-29 00:58:49 INFO  Minecraft - Preparing spawn area: 53%
+2023-08-29 00:58:50 INFO  Minecraft - Preparing spawn area: 56%
+2023-08-29 00:58:51 INFO  Minecraft - Preparing spawn area: 57%
+2023-08-29 00:58:52 INFO  Minecraft - Preparing spawn area: 61%
+2023-08-29 00:58:53 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 00:58:54 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 00:58:55 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 00:58:56 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:58:57 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 00:58:58 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 00:58:59 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 00:59:00 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 00:59:01 INFO  Minecraft - Preparing spawn area: 93%
+2023-08-29 00:59:02 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 00:59:03 INFO  Minecraft - Preparing start region for level 1
+2023-08-29 00:59:03 INFO  Minecraft - Preparing spawn area: 4%
+2023-08-29 00:59:05 INFO  Minecraft - Preparing spawn area: 8%
+2023-08-29 00:59:06 INFO  Minecraft - Preparing spawn area: 12%
+2023-08-29 00:59:07 INFO  Minecraft - Preparing spawn area: 24%
+2023-08-29 00:59:08 INFO  Minecraft - Preparing spawn area: 32%
+2023-08-29 00:59:09 INFO  Minecraft - Preparing spawn area: 36%
+2023-08-29 00:59:10 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 00:59:11 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 00:59:12 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 00:59:13 INFO  Minecraft - Preparing spawn area: 52%
+2023-08-29 00:59:14 INFO  Minecraft - Preparing spawn area: 57%
+2023-08-29 00:59:15 INFO  Minecraft - Preparing spawn area: 61%
+2023-08-29 00:59:17 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 00:59:18 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 00:59:19 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 00:59:20 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 00:59:21 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 00:59:22 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 00:59:24 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 00:59:26 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 00:59:29 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:59:32 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:59:37 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:59:56 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:59:57 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 00:59:59 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:02 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:11 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:12 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:14 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:16 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:17 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:22 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:24 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:26 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:28 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:29 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:30 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:50 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:00:51 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:00:52 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:00:53 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:00:55 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:00:59 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:02 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:04 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:06 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:08 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:12 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:15 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:17 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:24 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:26 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:30 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:31 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:41 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:51 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:01:54 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:02:06 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:09 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:14 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:18 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:23 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:27 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:29 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:32 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:35 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:41 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:47 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:56 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:02:58 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:03:03 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:03:08 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:03:13 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:05:17 INFO  Minecraft - Starting Better than Adventure! server for version 1.7.7.0_02
+2023-08-29 01:05:17 WARN  Minecraft - **** NOT ENOUGH RAM!
+2023-08-29 01:05:17 WARN  Minecraft - To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2023-08-29 01:05:17 INFO  Minecraft - Loading properties
+2023-08-29 01:05:21 INFO  Minecraft - Starting Minecraft server on *:25565
+2023-08-29 01:05:21 INFO  Minecraft - Preparing level "world"
+2023-08-29 01:05:26 INFO  Minecraft - Preparing start region for level 0
+2023-08-29 01:05:27 INFO  Minecraft - Preparing spawn area: 0%
+2023-08-29 01:05:28 INFO  Minecraft - Preparing spawn area: 3%
+2023-08-29 01:05:29 INFO  Minecraft - Preparing spawn area: 4%
+2023-08-29 01:05:30 INFO  Minecraft - Preparing spawn area: 8%
+2023-08-29 01:05:31 INFO  Minecraft - Preparing spawn area: 8%
+2023-08-29 01:05:32 INFO  Minecraft - Preparing spawn area: 12%
+2023-08-29 01:05:33 INFO  Minecraft - Preparing spawn area: 16%
+2023-08-29 01:05:34 INFO  Minecraft - Preparing spawn area: 20%
+2023-08-29 01:05:35 INFO  Minecraft - Preparing spawn area: 28%
+2023-08-29 01:05:36 INFO  Minecraft - Preparing spawn area: 32%
+2023-08-29 01:05:37 INFO  Minecraft - Preparing spawn area: 36%
+2023-08-29 01:05:38 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 01:05:39 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 01:05:40 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 01:05:41 INFO  Minecraft - Preparing spawn area: 52%
+2023-08-29 01:05:42 INFO  Minecraft - Preparing spawn area: 56%
+2023-08-29 01:05:43 INFO  Minecraft - Preparing spawn area: 57%
+2023-08-29 01:05:44 INFO  Minecraft - Preparing spawn area: 61%
+2023-08-29 01:05:45 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 01:05:46 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 01:05:47 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 01:05:48 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 01:05:50 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 01:05:51 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:05:52 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:05:53 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:05:54 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:05:55 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:05:56 INFO  Minecraft - Preparing spawn area: 93%
+2023-08-29 01:05:57 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 01:05:58 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 01:05:59 INFO  Minecraft - Preparing start region for level 1
+2023-08-29 01:05:59 INFO  Minecraft - Preparing spawn area: 3%
+2023-08-29 01:06:00 INFO  Minecraft - Preparing spawn area: 4%
+2023-08-29 01:06:01 INFO  Minecraft - Preparing spawn area: 12%
+2023-08-29 01:06:02 INFO  Minecraft - Preparing spawn area: 16%
+2023-08-29 01:06:03 INFO  Minecraft - Preparing spawn area: 20%
+2023-08-29 01:06:04 INFO  Minecraft - Preparing spawn area: 24%
+2023-08-29 01:06:05 INFO  Minecraft - Preparing spawn area: 28%
+2023-08-29 01:06:06 INFO  Minecraft - Preparing spawn area: 32%
+2023-08-29 01:06:08 INFO  Minecraft - Preparing spawn area: 32%
+2023-08-29 01:06:09 INFO  Minecraft - Preparing spawn area: 36%
+2023-08-29 01:06:10 INFO  Minecraft - Preparing spawn area: 36%
+2023-08-29 01:06:11 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 01:06:13 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 01:06:15 INFO  Minecraft - Preparing spawn area: 40%
+2023-08-29 01:06:16 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 01:06:18 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 01:06:19 INFO  Minecraft - Preparing spawn area: 44%
+2023-08-29 01:06:20 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 01:06:21 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 01:06:22 INFO  Minecraft - Preparing spawn area: 48%
+2023-08-29 01:06:23 INFO  Minecraft - Preparing spawn area: 52%
+2023-08-29 01:06:25 INFO  Minecraft - Preparing spawn area: 52%
+2023-08-29 01:06:26 INFO  Minecraft - Preparing spawn area: 53%
+2023-08-29 01:06:27 INFO  Minecraft - Preparing spawn area: 56%
+2023-08-29 01:06:29 INFO  Minecraft - Preparing spawn area: 56%
+2023-08-29 01:06:30 INFO  Minecraft - Preparing spawn area: 57%
+2023-08-29 01:06:31 INFO  Minecraft - Preparing spawn area: 60%
+2023-08-29 01:06:33 INFO  Minecraft - Preparing spawn area: 61%
+2023-08-29 01:06:34 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 01:06:35 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 01:06:37 INFO  Minecraft - Preparing spawn area: 65%
+2023-08-29 01:06:38 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 01:06:39 INFO  Minecraft - Preparing spawn area: 69%
+2023-08-29 01:06:40 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 01:06:41 INFO  Minecraft - Preparing spawn area: 73%
+2023-08-29 01:06:42 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 01:06:43 INFO  Minecraft - Preparing spawn area: 77%
+2023-08-29 01:06:44 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:06:46 INFO  Minecraft - Preparing spawn area: 81%
+2023-08-29 01:06:47 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:06:48 INFO  Minecraft - Preparing spawn area: 85%
+2023-08-29 01:06:49 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:06:51 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:06:52 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:06:53 INFO  Minecraft - Preparing spawn area: 89%
+2023-08-29 01:06:54 INFO  Minecraft - Preparing spawn area: 93%
+2023-08-29 01:06:55 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 01:06:56 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 01:06:57 INFO  Minecraft - Preparing spawn area: 97%
+2023-08-29 01:06:57 INFO  Minecraft - Preparing start region for level 2
+2023-08-29 01:06:57 INFO  Minecraft - Generating RSA key...
+2023-08-29 01:06:58 INFO  Minecraft - Done (96399813948ns)! For help, type "help" or "?"
+2023-08-29 01:07:44 INFO  Minecraft - Peggl3 [/70.119.67.35:45664] logged in with entity id 4383 at (-306.5, 129.62000000476837, 186.5)
+2023-08-29 01:20:22 INFO  Minecraft - Peggl3 tried command: timeset day
+2023-08-29 01:22:02 INFO  Minecraft - Peggl3 lost connection: disconnect.quitting
+2023-08-29 01:22:33 INFO  Minecraft - Peggl3 [/70.119.67.35:54018] logged in with entity id 91574 at (-313.25, 144.0, 192.40625)
+2023-08-29 01:22:34 INFO  Minecraft - Disconnecting /70.119.67.35:46618: Took too long to log in
+2023-08-29 01:26:55 INFO  Minecraft - Peggl3 tried command: noclip
+2023-08-29 01:27:00 INFO  Minecraft - Peggl3 lost connection: disconnect.genericReason
